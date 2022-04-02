@@ -93,7 +93,7 @@ completion of each level and a button to move on to the next level.
 
 ## License
 
-    Copyright [YOUR NAME]
+    Copyright Tahmid Asif
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
